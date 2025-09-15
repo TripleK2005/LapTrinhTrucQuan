@@ -1,0 +1,11 @@
+D:\Lap_Trinh_Web\BT1509\bin\Debug\BT1509.exe.config
+D:\Lap_Trinh_Web\BT1509\bin\Debug\BT1509.exe
+D:\Lap_Trinh_Web\BT1509\bin\Debug\BT1509.pdb
+D:\Lap_Trinh_Web\BT1509\obj\Debug\BT1509.csproj.AssemblyReference.cache
+D:\Lap_Trinh_Web\BT1509\obj\Debug\BT1509.Form1.resources
+D:\Lap_Trinh_Web\BT1509\obj\Debug\BT1509.Properties.Resources.resources
+D:\Lap_Trinh_Web\BT1509\obj\Debug\BT1509.csproj.GenerateResource.cache
+D:\Lap_Trinh_Web\BT1509\obj\Debug\BT1509.csproj.CoreCompileInputs.cache
+D:\Lap_Trinh_Web\BT1509\obj\Debug\BT1509.exe
+D:\Lap_Trinh_Web\BT1509\obj\Debug\BT1509.pdb
+D:\Lap_Trinh_Web\BT1509\obj\Debug\BT1509.exe.config
