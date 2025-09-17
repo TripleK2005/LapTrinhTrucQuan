@@ -1,0 +1,12 @@
+D:\Lap_Trinh_Web\BT_MAU_1709\bin\Debug\BT_MAU_1709.exe.config
+D:\Lap_Trinh_Web\BT_MAU_1709\bin\Debug\BT_MAU_1709.exe
+D:\Lap_Trinh_Web\BT_MAU_1709\bin\Debug\BT_MAU_1709.pdb
+D:\Lap_Trinh_Web\BT_MAU_1709\obj\Debug\BT_MAU_1709.csproj.AssemblyReference.cache
+D:\Lap_Trinh_Web\BT_MAU_1709\obj\Debug\BT_MAU_1709.Form1.resources
+D:\Lap_Trinh_Web\BT_MAU_1709\obj\Debug\BT_MAU_1709.Properties.Resources.resources
+D:\Lap_Trinh_Web\BT_MAU_1709\obj\Debug\BT_MAU_1709.csproj.GenerateResource.cache
+D:\Lap_Trinh_Web\BT_MAU_1709\obj\Debug\BT_MAU_1709.csproj.CoreCompileInputs.cache
+D:\Lap_Trinh_Web\BT_MAU_1709\obj\Debug\BT_MAU_1709.exe
+D:\Lap_Trinh_Web\BT_MAU_1709\obj\Debug\BT_MAU_1709.pdb
+D:\Lap_Trinh_Web\BT_MAU_1709\obj\Debug\BT_MAU_1709.exe.config
+D:\Lap_Trinh_Web\BT_MAU_1709\obj\Debug\BT_MAU_1709.Form2.resources
