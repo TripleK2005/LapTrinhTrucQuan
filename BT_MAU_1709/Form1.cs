@@ -70,7 +70,7 @@ namespace BT_MAU_1709
             int kt = 1;
             if (txtMaKH.TextLength < 6)
             {
-                MessageBox.Show("Nhập lại vì mã < 6");
+                MessageBox.Show("Nhập lại vì mã không đủ 6 số");
                 kt = 0;
             }
             if (txtDiaChi.TextLength == 0 || txtTenKH.TextLength == 0)
@@ -144,6 +144,14 @@ namespace BT_MAU_1709
                     }
                 }
 
+                bool exited = StaticData._Nguoigui.Any(x => x.MaKH1 == int.Parse(txtMaKH.Text));
+
+                if (exited)
+                {
+                    MessageBox.Show("Mã khách hàng đã tồn tại");
+                    return;
+                }
+
                 lstDanhSach.Items.Add(
                     txtMaKH.Text + " | " + 
                     txtTenKH.Text + " | " +
@@ -170,6 +178,21 @@ namespace BT_MAU_1709
         {
             Form2 f2 = new Form2();
             f2.Show();
+        }
+
+        private void txtSoTienGui_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar)) {
+                e.Handled = true;
+            }
+        }
+
+        private void txtTenKH_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsLetter(e.KeyChar) && !char.IsWhiteSpace(e.KeyChar))
+            {
+                e.Handled = true;
+            }
         }
     }
 

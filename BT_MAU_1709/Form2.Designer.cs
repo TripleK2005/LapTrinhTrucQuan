@@ -59,6 +59,7 @@
             this.txtMaKH.Name = "txtMaKH";
             this.txtMaKH.Size = new System.Drawing.Size(100, 22);
             this.txtMaKH.TabIndex = 2;
+            this.txtMaKH.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtMaKH_KeyPress);
             // 
             // button2
             // 

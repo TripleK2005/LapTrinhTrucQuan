@@ -134,6 +134,7 @@
             this.txtTenKH.Name = "txtTenKH";
             this.txtTenKH.Size = new System.Drawing.Size(131, 22);
             this.txtTenKH.TabIndex = 9;
+            this.txtTenKH.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtTenKH_KeyPress);
             // 
             // txtDiaChi
             // 
@@ -150,6 +151,7 @@
             this.txtSoTienGui.Name = "txtSoTienGui";
             this.txtSoTienGui.Size = new System.Drawing.Size(131, 22);
             this.txtSoTienGui.TabIndex = 11;
+            this.txtSoTienGui.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtSoTienGui_KeyPress);
             // 
             // txtNgayGui
             // 

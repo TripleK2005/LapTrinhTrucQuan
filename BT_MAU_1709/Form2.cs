@@ -22,6 +22,11 @@ namespace BT_MAU_1709
 
         private void button1_Click(object sender, EventArgs e)
         {
+            if(txtMaKH.Text.Length != 6)
+            {
+                MessageBox.Show("Mã khách hàng phải có 6 số");
+                return;
+            }
             int maKH = int.Parse(txtMaKH.Text);
             var ng = listNguoiguis.FirstOrDefault(x => x.MaKH1 == maKH);
             if (ng != null)
@@ -38,6 +43,13 @@ namespace BT_MAU_1709
         private void button2_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void txtMaKH_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsDigit(e.KeyChar)){
+                e.Handled = true; return;
+            }
         }
     }
 }
