@@ -77,6 +77,7 @@ namespace BT1809_BAI2
 
         private void btnThem_Click(object sender, EventArgs e)
         {
+
             if(cbMonHoc.Text == "")
             {
                 MessageBox.Show("Vui lòng chọn môn học!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
@@ -113,6 +114,13 @@ namespace BT1809_BAI2
                 diemTB += (diem * sotc);
             }
 
+            if (Data.listMonHoc.Count == 0)
+            {
+                txtDiem.Text = null;
+                txtSoTC.Text = null;
+                txtDiemTB.Text = null;
+            }
+
             lstDanhSach.Items.Add(new MonHoc(monhoc, sotc, diem).ToString());
             Data.listMonHoc.Add(new MonHoc(monhoc, sotc, diem));
             txtDiem.Clear();
@@ -123,6 +131,11 @@ namespace BT1809_BAI2
         private void btnTInh_Click(object sender, EventArgs e)
         {
             txtDiemTB.Text = (diemTB / tongSoTC).ToString("0.000");
+            Data.listMonHoc.Clear();
+            lstDanhSach.Items.Clear();
+            tongDiem = 0;
+            tongSoTC = 0;
+            diemTB = 0;
         }
 
         private void btnThoat_Click(object sender, EventArgs e)
