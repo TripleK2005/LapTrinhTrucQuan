@@ -1,0 +1,16 @@
+D:\Lap_Trinh_Web\BT_MAU_2509\bin\Debug\BT_MAU_2509.exe.config
+D:\Lap_Trinh_Web\BT_MAU_2509\bin\Debug\BT_MAU_2509.exe
+D:\Lap_Trinh_Web\BT_MAU_2509\bin\Debug\BT_MAU_2509.pdb
+D:\Lap_Trinh_Web\BT_MAU_2509\bin\Debug\Interop.WMPLib.dll
+D:\Lap_Trinh_Web\BT_MAU_2509\bin\Debug\AxInterop.WMPLib.dll
+D:\Lap_Trinh_Web\BT_MAU_2509\obj\Debug\BT_MAU_2509.csproj.AssemblyReference.cache
+D:\Lap_Trinh_Web\BT_MAU_2509\obj\Debug\Interop.WMPLib.dll
+D:\Lap_Trinh_Web\BT_MAU_2509\obj\Debug\AxInterop.WMPLib.dll
+D:\Lap_Trinh_Web\BT_MAU_2509\obj\Debug\BT_MAU_2509.csproj.ResolveComReference.cache
+D:\Lap_Trinh_Web\BT_MAU_2509\obj\Debug\BT_MAU_2509.Form1.resources
+D:\Lap_Trinh_Web\BT_MAU_2509\obj\Debug\BT_MAU_2509.Properties.Resources.resources
+D:\Lap_Trinh_Web\BT_MAU_2509\obj\Debug\BT_MAU_2509.csproj.GenerateResource.cache
+D:\Lap_Trinh_Web\BT_MAU_2509\obj\Debug\BT_MAU_2509.csproj.CoreCompileInputs.cache
+D:\Lap_Trinh_Web\BT_MAU_2509\obj\Debug\BT_MAU_2509.exe
+D:\Lap_Trinh_Web\BT_MAU_2509\obj\Debug\BT_MAU_2509.pdb
+D:\Lap_Trinh_Web\BT_MAU_2509\obj\Debug\BT_MAU_2509.exe.config
