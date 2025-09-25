@@ -1,0 +1,12 @@
+D:\Lap_Trinh_Web\BT_4_2509\bin\Debug\BT_4_2509.exe.config
+D:\Lap_Trinh_Web\BT_4_2509\bin\Debug\BT_4_2509.exe
+D:\Lap_Trinh_Web\BT_4_2509\bin\Debug\BT_4_2509.pdb
+D:\Lap_Trinh_Web\BT_4_2509\obj\Debug\BT_4_2509.csproj.AssemblyReference.cache
+D:\Lap_Trinh_Web\BT_4_2509\obj\Debug\BT_4_2509.Form1.resources
+D:\Lap_Trinh_Web\BT_4_2509\obj\Debug\BT_4_2509.Properties.Resources.resources
+D:\Lap_Trinh_Web\BT_4_2509\obj\Debug\BT_4_2509.csproj.GenerateResource.cache
+D:\Lap_Trinh_Web\BT_4_2509\obj\Debug\BT_4_2509.csproj.CoreCompileInputs.cache
+D:\Lap_Trinh_Web\BT_4_2509\obj\Debug\BT_4_2509.exe
+D:\Lap_Trinh_Web\BT_4_2509\obj\Debug\BT_4_2509.pdb
+D:\Lap_Trinh_Web\BT_4_2509\obj\Debug\BT_4_2509.exe.config
+D:\Lap_Trinh_Web\BT_4_2509\obj\Debug\BT_4_2509.FormDienTu.resources
