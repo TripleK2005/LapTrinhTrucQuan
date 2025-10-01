@@ -1,0 +1,10 @@
+1.vào appconfig sửa link database
+1.tạo database testDB
+1.tạo table
+CREATE TABLE Users
+(
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Name NVARCHAR(100) NOT NULL,
+    Email NVARCHAR(100) NOT NULL
+);
+done
