@@ -1,0 +1,13 @@
+D:\Lap_Trinh_Truc_Quan\TestConnectDatabase\obj\Debug\TestConnectDatabase.csproj.AssemblyReference.cache
+D:\Lap_Trinh_Truc_Quan\TestConnectDatabase\obj\Debug\TestConnectDatabase.Form1.resources
+D:\Lap_Trinh_Truc_Quan\TestConnectDatabase\obj\Debug\TestConnectDatabase.csproj.GenerateResource.cache
+D:\Lap_Trinh_Truc_Quan\TestConnectDatabase\bin\Debug\TestConnectDatabase.exe.config
+D:\Lap_Trinh_Truc_Quan\TestConnectDatabase\bin\Debug\TestConnectDatabase.exe
+D:\Lap_Trinh_Truc_Quan\TestConnectDatabase\bin\Debug\TestConnectDatabase.pdb
+D:\Lap_Trinh_Truc_Quan\TestConnectDatabase\obj\Debug\TestConnectDatabase.Properties.Resources.resources
+D:\Lap_Trinh_Truc_Quan\TestConnectDatabase\obj\Debug\TestConnectDatabase.csproj.CoreCompileInputs.cache
+D:\Lap_Trinh_Truc_Quan\TestConnectDatabase\obj\Debug\TestConnectDatabase.exe
+D:\Lap_Trinh_Truc_Quan\TestConnectDatabase\obj\Debug\TestConnectDatabase.pdb
+D:\Lap_Trinh_Truc_Quan\TestConnectDatabase\obj\Debug\TestConnectDatabase.exe.config
+D:\Lap_Trinh_Truc_Quan\TestConnectDatabase\obj\Debug\TestConnectDatabase.Form2.resources
+D:\Lap_Trinh_Truc_Quan\TestConnectDatabase\obj\Debug\TestConnectDatabase.Form3.resources
