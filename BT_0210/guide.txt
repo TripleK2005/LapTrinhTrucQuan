@@ -1,0 +1,23 @@
+﻿1. sửa strConnect = @"Data Source=TRIPLEK\SQLEXPRESS;
+                                      Initial Catalog=BanHang;
+                                      Integrated Security=True;
+                                      TrustServerCertificate=True";
+2. sửa tên database trong sql server thành BanHang
+//code tạo bảng và dữ liệu mẫu trong file BanHang.sql
+create database BanHang
+GO
+use BanHang
+GO
+create table tblMatHang(
+    MaSP char(5) primary key,
+    TenSP nvarchar(50),
+    NgaySX date,
+    NgayHH date,
+    DonVi nvarchar(10),
+    DonGia float,
+    GhiChu nvarchar(100)
+    )
+
+3. chạy file BanHang.sql để tạo bảng và dữ liệu mẫu
+
+4. chạy chương trình

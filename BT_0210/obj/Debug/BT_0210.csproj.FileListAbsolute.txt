@@ -1,0 +1,11 @@
+D:\Lap_Trinh_Truc_Quan\BT_0210\bin\Debug\BT_0210.exe.config
+D:\Lap_Trinh_Truc_Quan\BT_0210\bin\Debug\BT_0210.exe
+D:\Lap_Trinh_Truc_Quan\BT_0210\bin\Debug\BT_0210.pdb
+D:\Lap_Trinh_Truc_Quan\BT_0210\obj\Debug\BT_0210.csproj.AssemblyReference.cache
+D:\Lap_Trinh_Truc_Quan\BT_0210\obj\Debug\BT_0210.frmMatHang.resources
+D:\Lap_Trinh_Truc_Quan\BT_0210\obj\Debug\BT_0210.Properties.Resources.resources
+D:\Lap_Trinh_Truc_Quan\BT_0210\obj\Debug\BT_0210.csproj.GenerateResource.cache
+D:\Lap_Trinh_Truc_Quan\BT_0210\obj\Debug\BT_0210.csproj.CoreCompileInputs.cache
+D:\Lap_Trinh_Truc_Quan\BT_0210\obj\Debug\BT_0210.exe
+D:\Lap_Trinh_Truc_Quan\BT_0210\obj\Debug\BT_0210.pdb
+D:\Lap_Trinh_Truc_Quan\BT_0210\obj\Debug\BT_0210.exe.config
